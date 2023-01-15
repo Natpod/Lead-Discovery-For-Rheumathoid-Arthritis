@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0468
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9674
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5153
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 10.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 390.2206
+HEADER 10  -Pocket volume (convex hull)       : 20.0288
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1364
+ATOM   2435  OE1 GLU A 684      12.000 -12.640  -3.463  0.82  8.57           O 0
+ATOM   2436  OE2 GLU A 684      11.588 -14.749  -3.875  0.00  0.00           O 0
+ATOM   1698   NZ LYS A 640      17.870 -10.235  -7.336  0.00  0.00           N 0
+ATOM   1547  CE1 PHE A 631      14.289 -16.122  -2.518  0.00  0.00           C 0
+ATOM   1545  CD1 PHE A 631      15.087 -15.168  -1.908  0.00  0.00           C 0
+ATOM   1695   CE LYS A 640      17.039  -9.003  -7.264  0.00  0.00           C 0
+ATOM   1713  ND2 ASN A 641      14.185  -7.952  -3.676  0.95  2.19           N 0
+ATOM   1712  OD1 ASN A 641      13.003  -7.900  -5.585  0.55  7.50           O 0
+ATOM   1692   CD LYS A 640      17.639  -7.993  -6.305  0.00  0.00           C 0
+ATOM   1556    O PHE A 631      18.410 -12.270   0.326  0.00  0.00           O 0
+ATOM   1612  OG1 THR A 636      20.684  -7.898   0.412  0.66  4.29           O 0
+ATOM   1622   CA TYR A 637      16.639  -7.116  -0.488  0.00  0.00           C 0
+ATOM   1619    O THR A 636      18.491  -5.426  -1.679  0.00  0.00           O 0
+ATOM   1610   CB THR A 636      21.105  -6.656  -0.159  0.00  0.00           C 0
+ATOM   1620    N TYR A 637      17.929  -6.722   0.063  0.00  0.00           N 0
+ATOM   1630  CE1 TYR A 637      13.807 -10.578  -1.534  0.00  0.00           C 0
+ATOM   1618    C THR A 636      18.752  -5.901  -0.580  0.00  0.00           C 0
+ATOM   1539   CA PHE A 631      17.572 -14.511   0.131  0.00  0.00           C 0
+ATOM   1536    O LYS A 630      19.292 -16.533  -0.609  0.00  0.00           O 0
+ATOM   1628  CD1 TYR A 637      14.903  -9.972  -0.960  0.00  0.00           C 0
+ATOM   1541   CB PHE A 631      16.100 -14.108   0.120  0.00  0.00           C 0
+TER
+END

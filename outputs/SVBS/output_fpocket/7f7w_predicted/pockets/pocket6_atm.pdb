@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0613
+HEADER 1  - Drug Score                        : 0.0071
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5746
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3591
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 55.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 87.1634
+HEADER 10  -Pocket volume (convex hull)       : 0.4233
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   1808  CG1 ILE A 647       1.813   0.083   5.357  0.00  0.00           C 0
+ATOM   3955  CD1 LEU A 780       6.844   0.673  10.177  0.00  0.00           C 0
+ATOM   1864   CB LYS A 650       6.992  -2.229   5.680  0.00  0.00           C 0
+ATOM   1870   CD LYS A 650       7.557  -0.357   4.128  0.00  0.00           C 0
+ATOM   1816    O ILE A 647       3.415  -2.503   5.468  0.62  1.07           O 0
+ATOM   3959  CD2 LEU A 780       4.799   1.555  11.282  0.00  0.00           C 0
+ATOM   4404  CD1 LEU A 808       1.517   1.476  11.772  0.00  0.00           C 0
+ATOM   3935   CB GLU A 779       2.782   4.192   7.874  0.00  0.00           C 0
+ATOM   1811  CD1 ILE A 647       0.829   1.167   5.739  0.00  0.00           C 0
+ATOM   3953   CG LEU A 780       5.964   1.891  10.370  0.00  0.00           C 0
+ATOM   3942  OE1 GLU A 779       3.974   4.421   5.385  0.81  2.14           O 0
+ATOM   3448   SG CYS A 747       8.981   2.352   7.722  0.00  0.00           S 0
+ATOM   1889   CG LEU A 651       2.377  -2.569   9.347  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0549
+HEADER 1  - Drug Score                        : 0.0038
+HEADER 2  - Number of alpha spheres           :    48
+HEADER 3  - Mean alpha-sphere radius          : 3.9290
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5581
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 19.1667
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.9167
+HEADER 9  - Pocket volume (Monte Carlo)       : 731.5787
+HEADER 10  -Pocket volume (convex hull)       : 175.0820
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 11.7143
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.2917
+ATOM   1328  CD2 PHE A 617      37.091 -24.339  19.515  0.00  0.00           C 0
+ATOM     66   CE LYS A 539      34.773 -28.021  21.388  0.00  0.00           C 0
+ATOM     63   CD LYS A 539      34.684 -28.963  20.193  0.00  0.00           C 0
+ATOM     69   NZ LYS A 539      35.482 -28.641  22.543  0.00  0.00           N 0
+ATOM     94    N ARG A 541      34.122 -30.631  11.899  0.00  0.00           N 0
+ATOM    109   CZ ARG A 541      35.540 -36.049  12.824  0.00  0.00           C 0
+ATOM    113  NH2 ARG A 541      34.508 -36.843  12.573  0.00  0.00           N 0
+ATOM     98   CB ARG A 541      35.530 -32.478  11.168  0.00  0.00           C 0
+ATOM     96   CA ARG A 541      35.414 -30.960  11.320  0.00  0.00           C 0
+ATOM    104   CD ARG A 541      37.056 -34.239  12.083  0.00  0.00           C 0
+ATOM   1340  HB2 CYX A 618      39.283 -28.413  13.330  0.00  0.00          HB 0
+ATOM    101   CG ARG A 541      36.948 -33.030  11.159  0.00  0.00           C 0
+ATOM   1335   HN CYX A 618      38.257 -26.226  14.516  0.00  0.00          HN 0
+ATOM     57   CB LYS A 539      33.616 -29.327  17.920  0.00  0.00           C 0
+ATOM     60   CG LYS A 539      33.789 -28.384  19.109  0.00  0.00           C 0
+ATOM   1318   CB PHE A 617      38.194 -24.505  17.268  0.00  0.00           C 0
+ATOM   1337   HA CYX A 618      40.832 -26.898  14.549  0.00  0.00          HA 0
+ATOM    524    N VAL A 567      25.527 -36.754   8.948  0.00  0.00           N 0
+ATOM    513   CB GLU A 566      25.887 -33.725   8.718  0.00  0.00           C 0
+ATOM    539    O VAL A 567      23.423 -36.469  10.868  0.00  0.00           O 0
+ATOM    480  NH2 ARG A 564      27.414 -30.862  12.449  0.63  4.37           N 0
+ATOM    520  OE1 GLU A 566      24.194 -32.089  10.104  0.00  0.00           O 0
+ATOM     47  NE2 HSE A 538      28.223 -32.410  15.911  0.00  0.00           N 0
+ATOM     49  CD2 HSE A 538      27.689 -31.678  16.924  0.00  0.00           C 0
+ATOM     74    O LYS A 539      32.401 -30.897  15.644  0.58  7.50           O 0
+ATOM     92    C ILE A 540      33.907 -29.532  12.616  0.00  0.00           C 0
+ATOM    110  NH1 ARG A 541      36.168 -36.139  13.991  0.74  8.75           N 0
+ATOM     45  CE1 HSE A 538      28.907 -31.593  15.104  0.00  0.00           C 0
+ATOM    156  OD2 ASP A 544      32.457 -34.181   9.373  0.00  0.00           O 0
+ATOM    511   CA GLU A 566      26.536 -34.847   7.904  0.00  0.00           C 0
+ATOM    508    O ARG A 565      28.891 -33.632   7.328  0.83  2.14           O 0
+ATOM    474   NE ARG A 564      27.630 -30.255  10.245  0.65  1.09           N 0
+ATOM     81  CG2 ILE A 540      31.575 -29.173  10.931  0.00  0.00           C 0
+ATOM   1314    N PHE A 617      36.820 -24.665  15.211  0.00  0.00           N 0
+ATOM     93    O ILE A 540      34.736 -28.630  12.752  0.68  6.43           O 0
+ATOM     73    C LYS A 539      32.480 -29.668  15.691  0.00  0.00           C 0
+ATOM   1306   HA CYX A 616      35.190 -26.136  13.873  0.00  0.00          HA 0
+ATOM     77   CA ILE A 540      32.527 -29.445  13.254  0.00  0.00           C 0
+TER
+END

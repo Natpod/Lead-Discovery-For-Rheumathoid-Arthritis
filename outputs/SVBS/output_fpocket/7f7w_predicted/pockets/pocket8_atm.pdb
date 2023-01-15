@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0415
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8149
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4420
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 25.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.1677
+HEADER 10  -Pocket volume (convex hull)       : 6.7531
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1364
+ATOM   2435  OE1 GLU A 684      12.000 -12.640  -3.463  0.82  8.57           O 0
+ATOM   2436  OE2 GLU A 684      11.588 -14.749  -3.875  0.00  0.00           O 0
+ATOM   2434   CD GLU A 684      11.686 -13.785  -3.089  0.00  0.00           C 0
+ATOM   2453    O GLU A 685       6.061 -13.746  -2.031  0.00  0.00           O 0
+ATOM   2482  NH1 ARG A 687       4.521 -10.572  -4.519  0.00  0.00           N 0
+ATOM   1633   OH TYR A 637      11.485 -10.659  -1.928  0.46  4.29           O 0
+ATOM   2443   CB GLU A 685       5.551 -11.522   0.242  0.00  0.00           C 0
+ATOM   2428   CB GLU A 684       9.932 -14.051  -1.284  0.00  0.00           C 0
+ATOM   1846  NE1 TRP A 649       8.243  -8.701   1.459  0.78  1.09           N 0
+ATOM   1761   SG CYS A 644       7.114  -7.088  -5.689  0.00  0.00           S 0
+ATOM   1712  OD1 ASN A 641      13.003  -7.900  -5.585  0.55  7.50           O 0
+ATOM   1775  CG1 ILE A 645       9.626  -4.991  -0.745  0.00  0.00           C 0
+ATOM   1764    O CYS A 644       6.209  -5.300  -3.286  0.00  0.00           O 0
+ATOM   1844  CD1 TRP A 649       6.986  -8.151   1.450  0.00  0.00           C 0
+ATOM   2450  OE1 GLU A 685       4.112  -9.135  -0.540  0.47  2.14           O 0
+ATOM   2439    N GLU A 685       7.467 -13.057   0.258  0.00  0.00           N 0
+ATOM   1708   CB ASN A 641      12.444  -6.281  -3.920  0.00  0.00           C 0
+ATOM   1758   CB CYS A 644       8.215  -5.665  -5.539  0.00  0.00           C 0
+TER
+END

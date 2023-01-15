@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0138
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5960
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3668
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 35.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 105.3274
+HEADER 10  -Pocket volume (convex hull)       : 1.4766
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   2868   CB LEU A 712      31.649   2.899  18.106  0.00  0.00           C 0
+ATOM   2827   NZ LYS A 709      35.478   7.247  22.183  0.50  5.47           N 0
+ATOM   3084    O ILE A 724      30.892   7.350  23.037  0.47  5.36           O 0
+ATOM   2877  CD2 LEU A 712      31.518   2.060  20.450  0.00  0.00           C 0
+ATOM   2832    O LYS A 709      34.268   4.646  16.845  0.00  0.00           O 0
+ATOM   3072  CG2 ILE A 724      29.549   8.497  20.467  0.00  0.00           C 0
+ATOM   3079  CD1 ILE A 724      28.689   6.083  18.893  0.00  0.00           C 0
+ATOM   2890   CG GLN A 713      32.667   7.747  16.598  0.00  0.00           C 0
+ATOM   2895  NE2 GLN A 713      34.258   9.198  17.701  0.81  3.28           N 0
+ATOM   2813   CA LYS A 709      35.924   3.967  18.430  0.00  0.00           C 0
+ATOM   2818   CG LYS A 709      36.883   5.093  20.541  0.00  0.00           C 0
+ATOM   2815   CB LYS A 709      36.585   5.202  19.054  0.00  0.00           C 0
+ATOM   2796    O LEU A 707      35.848  -0.332  20.038  0.50  5.36           O 0
+ATOM   3123   CG PRO A 727      32.007   2.326  23.784  0.00  0.00           C 0
+TER
+END

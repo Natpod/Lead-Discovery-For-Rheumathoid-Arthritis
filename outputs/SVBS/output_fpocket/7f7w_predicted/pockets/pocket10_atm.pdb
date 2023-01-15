@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0205
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9836
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6432
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 7.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.0533
+HEADER 10  -Pocket volume (convex hull)       : 11.4956
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM    838    O ALA A 586      43.919  -8.324  13.048  0.00  0.00           O 0
+ATOM    884   CB ASN A 589      43.120  -9.905  19.706  0.00  0.00           C 0
+ATOM    880    N ASN A 589      42.380 -11.456  17.946  0.52  2.19           N 0
+ATOM    889  ND2 ASN A 589      45.461  -9.298  19.945  0.00  0.00           N 0
+ATOM    841   CA HSD A 587      41.711  -9.619  14.092  0.00  0.00           C 0
+ATOM    856    N ARG A 588      42.298 -11.678  15.214  0.77  1.09           N 0
+ATOM    837    C ALA A 586      43.599  -9.408  12.566  0.00  0.00           C 0
+ATOM    828    O LYS A 585      44.233 -12.613  12.414  0.33  7.50           O 0
+ATOM    860   CB ARG A 588      43.162 -13.896  15.761  0.00  0.00           C 0
+ATOM    831   CA ALA A 586      44.413  -9.999  11.417  0.00  0.00           C 0
+ATOM    887   CG ASN A 589      44.572 -10.287  19.979  0.00  0.00           C 0
+ATOM    888  OD1 ASN A 589      44.887 -11.453  20.230  0.59  6.43           O 0
+ATOM    911  CE2 TYR A 590      39.445  -6.303  16.849  0.00  0.00           C 0
+ATOM    852  CD2 HSD A 587      41.226  -6.564  12.950  0.00  0.00           C 0
+ATOM    909  CD2 TYR A 590      39.055  -7.621  16.841  0.00  0.00           C 0
+ATOM    906   CZ TYR A 590      39.097  -5.493  17.905  0.00  0.00           C 0
+ATOM    907   OH TYR A 590      39.489  -4.170  17.908  0.71  5.36           O 0
+TER
+END
