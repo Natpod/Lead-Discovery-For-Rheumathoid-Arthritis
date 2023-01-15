@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0890
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8721
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6002
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -18.5714
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.0330
+HEADER 10  -Pocket volume (convex hull)       : 17.4491
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1727   CE LYS A 978      32.983  -2.852  -8.412  0.00  0.00           C 0
+ATOM   1802   CE LYS A 982      29.013  -0.689  -7.729  0.00  0.00           C 0
+ATOM   1730   NZ LYS A 978      34.300  -2.704  -7.690  0.71  5.47           N 0
+ATOM   1724   CD LYS A 978      32.935  -2.065  -9.718  0.00  0.00           C 0
+ATOM   1748  NE2 GLN A 979      28.550   3.866  -9.420  0.57  6.56           N 0
+ATOM   2318  OE2 GLU A1014      31.240   7.894  -9.908  0.00  0.00           O 0
+ATOM   1689  OD1 ASN A 976      31.991   1.676 -13.257  0.00  0.00           O 0
+ATOM   1740   CB GLN A 979      28.774   2.872 -12.302  0.00  0.00           C 0
+ATOM   1690  ND2 ASN A 976      34.232   1.843 -13.189  0.77  7.66           N 0
+ATOM   1661    O LYS A 974      32.206   6.930 -14.088  0.00  8.57           O 0
+ATOM   1805   NZ LYS A 982      29.013  -1.715  -6.671  0.09  6.56           N 0
+ATOM   2328  ND1 HSD A1015      28.701   6.112  -6.443  0.72  7.66           N 0
+ATOM   2331  CE1 HSD A1015      29.811   6.816  -6.304  0.00  0.00           C 0
+ATOM   1799   CD LYS A 982      27.660  -0.018  -7.901  0.00  0.00           C 0
+ATOM   1721   CG LYS A 978      31.548  -2.158 -10.384  0.00  0.00           C 0
+ATOM   1718   CB LYS A 978      31.626  -1.599 -11.795  0.00  0.00           C 0
+ATOM   1736    N GLN A 979      29.390   0.474 -12.397  0.86  1.09           N 0
+TER
+END

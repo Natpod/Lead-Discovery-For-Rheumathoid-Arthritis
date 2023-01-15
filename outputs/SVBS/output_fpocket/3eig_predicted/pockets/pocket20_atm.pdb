@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0833
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0277
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5361
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 37.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 311.6562
+HEADER 10  -Pocket volume (convex hull)       : 10.8865
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5909
+ATOM   2866  CD2 TYR A1048       3.645  -1.818 -25.587  0.00  0.00           C 0
+ATOM   2797  CG1 VAL A1045       3.713   0.455 -30.059  0.00  0.00           C 0
+ATOM   2921    O CYS A1052       0.019  -5.101 -27.083  0.00  0.00           O 0
+ATOM   2727  OD2 ASP A1040      -2.649  -1.377 -26.638  0.53  3.21           O 0
+ATOM   2770   CB SER A1043       1.761   1.864 -26.342  0.00  0.00           C 0
+ATOM   2982   OG SER A1056      -3.769  -3.694 -27.080  0.44  8.57           O 0
+ATOM   2940    O LEU A1053      -0.312  -5.782 -30.465  0.00  0.00           O 0
+ATOM   2725   CG ASP A1040      -3.330  -0.407 -27.075  0.00  0.00           C 0
+ATOM   2726  OD1 ASP A1040      -4.568  -0.481 -27.331  0.69  7.50           O 0
+ATOM   2935  CD2 LEU A1053       4.158  -3.663 -29.591  0.00  0.00           C 0
+ATOM   3671  CG1 VAL A1101       2.348  -3.664 -33.344  0.00  0.00           C 0
+ATOM   3675  CG2 VAL A1101       3.077  -1.293 -33.417  0.00  0.00           C 0
+ATOM   2722   CB ASP A1040      -2.588   0.886 -27.418  0.00  0.00           C 0
+ATOM   2924   CA LEU A1053       1.707  -5.606 -29.207  0.00  0.00           C 0
+ATOM   2868  CE2 TYR A1048       2.940  -0.923 -24.754  0.00  0.00           C 0
+ATOM   2773   OG SER A1043       0.680   1.630 -25.473  0.00  0.00           O 0
+ATOM   2729    O ASP A1040      -0.971   3.107 -27.537  0.00  0.00           O 0
+TER
+END

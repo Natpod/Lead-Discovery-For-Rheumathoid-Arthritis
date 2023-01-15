@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0184
+HEADER 1  - Drug Score                        : 0.0097
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9306
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5373
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 13.8000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 305.9802
+HEADER 10  -Pocket volume (convex hull)       : 8.4735
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8235
+ATOM   3510   CD LYS A1090      18.421   1.975 -38.876  0.00  0.00           C 0
+ATOM   3574   CG PRO A1094      12.759   3.658 -43.107  0.00  0.00           C 0
+ATOM   3516   NZ LYS A1090      19.111   4.344 -38.491  0.53  9.84           N 0
+ATOM   3513   CE LYS A1090      19.508   3.017 -39.066  0.00  0.00           C 0
+ATOM   3507   CG LYS A1090      18.906   0.627 -39.293  0.00  0.00           C 0
+ATOM   3566   CD PRO A1094      12.483   2.187 -43.309  0.00  0.00           C 0
+ATOM   3502   CA LYS A1090      16.630  -0.555 -39.371  0.00  0.00           C 0
+ATOM   3499    O LEU A1089      13.886  -0.106 -39.814  0.56  1.07           O 0
+ATOM   3521    O LYS A1090      16.732  -2.440 -40.838  0.70  7.50           O 0
+ATOM   3485   CB LEU A1089      13.440   2.114 -37.430  0.00  0.00           C 0
+ATOM   3571   CB PRO A1094      12.330   3.991 -41.687  0.00  0.00           C 0
+ATOM   3490  CD1 LEU A1089      12.065   4.095 -36.555  0.00  0.00           C 0
+ATOM   3436   CB ALA A1086      17.597   4.322 -34.037  0.00  0.00           C 0
+ATOM   3434   CA ALA A1086      16.411   3.416 -34.298  0.00  0.00           C 0
+ATOM   3441    O ALA A1086      16.824   1.734 -35.953  0.00  0.00           O 0
+ATOM   3498    C LEU A1089      14.364   0.138 -38.706  0.00  0.00           C 0
+ATOM   3560   CA GLY A1093      12.070  -0.553 -42.385  0.00  0.00           C 0
+TER
+END

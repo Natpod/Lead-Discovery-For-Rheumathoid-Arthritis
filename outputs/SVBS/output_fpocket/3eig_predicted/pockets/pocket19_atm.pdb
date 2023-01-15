@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0827
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8745
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5522
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 29.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.2183
+HEADER 10  -Pocket volume (convex hull)       : 6.0187
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1953   CA ASP A 992      10.182  -5.724  -8.044  0.00  0.00           C 0
+ATOM   2005   CA GLY A 995       5.132  -5.456  -9.054  0.00  0.00           C 0
+ATOM   1950    O MET A 991       8.689  -4.119  -9.724  0.00  0.00           O 0
+ATOM   3055  CG2 ILE A1060       6.267  -8.840 -12.973  0.00  0.00           C 0
+ATOM   1959  OD1 ASP A 992      10.422  -8.576  -6.918  0.00  0.00           O 0
+ATOM   3062  CD1 ILE A1060       3.741  -8.731 -11.039  0.00  0.00           C 0
+ATOM   1962    O ASP A 992       8.125  -5.818  -6.726  0.47  1.07           O 0
+ATOM   2012   CA SER A 996       4.695  -6.559  -5.439  0.00  0.00           C 0
+ATOM   2014   CB SER A 996       5.746  -6.450  -4.332  0.00  0.00           C 0
+ATOM   2008    C GLY A 995       4.471  -6.026  -7.810  0.00  0.00           C 0
+ATOM   2009    O GLY A 995       3.318  -6.453  -7.855  0.52  3.21           O 0
+ATOM   4354  CD2 PHE A1142      10.405  -6.816 -12.489  0.00  0.00           C 0
+ATOM   4340    N PHE A1142      12.053 -10.185 -11.854  0.61  1.09           N 0
+ATOM   4333   CB SER A1141      11.153 -13.131 -11.447  0.00  0.00           C 0
+ATOM   2010    N SER A 996       5.188  -5.994  -6.687  0.00  0.00           N 0
+ATOM   4344   CB PHE A1142      12.160  -7.862 -10.987  0.00  0.00           C 0
+TER
+END

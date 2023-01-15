@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0511
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.7866
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5597
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 13.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 344.6211
+HEADER 10  -Pocket volume (convex hull)       : 25.6801
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0690
+ATOM   4150   CG LYS A1130      17.707 -15.452 -18.923  0.00  0.00           C 0
+ATOM   4077  OE1 GLN A1126      22.502 -15.947 -23.193  0.56  7.50           O 0
+ATOM   4159   NZ LYS A1130      19.464 -17.733 -18.166  0.00  0.00           N 0
+ATOM   4212  OE2 GLU A1133      14.309 -18.152 -23.217  0.00  0.00           O 0
+ATOM   4210   CD GLU A1133      13.195 -17.635 -23.406  0.00  0.00           C 0
+ATOM   4211  OE1 GLU A1133      12.402 -18.033 -24.286  0.12  8.57           O 0
+ATOM   4138  NH2 ARG A1129      17.956 -14.775 -28.416  0.00  0.00           N 0
+ATOM   3886  NH2 ARG A1113      11.687 -13.323 -28.678  0.22  3.28           N 0
+ATOM   3882   CZ ARG A1113      12.548 -12.448 -29.206  0.00  0.00           C 0
+ATOM   3844    O GLY A1111      15.438 -13.767 -32.267  0.00  0.00           O 0
+ATOM   3840   CA GLY A1111      13.356 -14.661 -33.003  0.00  0.00           C 0
+ATOM   4132   NE ARG A1129      19.495 -14.489 -26.732  0.62  2.19           N 0
+ATOM   4142    O ARG A1129      16.052 -13.286 -23.029  0.57  6.43           O 0
+ATOM   4215    N PHE A1134      10.043 -14.966 -25.954  0.00  0.00           N 0
+ATOM   4219   CB PHE A1134       8.540 -15.484 -27.867  0.00  0.00           C 0
+ATOM   4199    O TRP A1132      12.651 -12.860 -25.892  0.51  2.14           O 0
+ATOM   4141    C ARG A1129      17.095 -12.994 -22.463  0.00  0.00           C 0
+ATOM   4145   CA LYS A1130      16.290 -13.850 -20.341  0.00  0.00           C 0
+ATOM   4202   CA GLU A1133      11.742 -14.866 -24.224  0.00  0.00           C 0
+ATOM   3880   NE ARG A1113      13.343 -11.744 -28.402  0.48  1.09           N 0
+ATOM   4200    N GLU A1133      12.457 -13.673 -23.790  0.00  0.00           N 0
+ATOM   4082    O GLN A1126      20.293 -13.663 -20.368  0.41  1.07           O 0
+ATOM   4123   CB ARG A1129      19.119 -13.322 -23.911  0.00  0.00           C 0
+ATOM   4143    N LYS A1130      17.293 -13.206 -21.161  0.00  0.00           N 0
+TER
+END

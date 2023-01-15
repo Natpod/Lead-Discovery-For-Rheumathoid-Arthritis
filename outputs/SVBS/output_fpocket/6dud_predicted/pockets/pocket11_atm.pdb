@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0343
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7045
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3834
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 15.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 105.1167
+HEADER 10  -Pocket volume (convex hull)       : 0.6427
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   3207  CD1 TYR A1023       9.131  27.113 -20.339  0.00  0.00           C 0
+ATOM   3733    O PRO A1064       8.391  29.189 -26.614  0.75  8.57           O 0
+ATOM   3184    O PHE A1021       6.926  26.258 -23.797  0.41  2.14           O 0
+ATOM   1564  NH2 ARG A 918       9.468  30.844 -20.322  0.00  0.00           N 0
+ATOM   3729   CG PRO A1064       5.443  32.055 -26.101  0.00  0.00           C 0
+ATOM   1561  NH1 ARG A 918       7.667  30.564 -18.938  0.42  5.47           N 0
+ATOM   3240  OD2 ASP A1025       3.336  32.932 -20.164  0.44  7.50           O 0
+ATOM   3209  CE1 TYR A1023      10.279  26.721 -21.016  0.00  0.00           C 0
+ATOM   3198    O THR A1022       5.174  28.291 -20.001  0.65  1.07           O 0
+ATOM   3721   CD PRO A1064       4.944  30.613 -26.072  0.00  0.00           C 0
+ATOM   3271   SG CYS A1028       1.989  30.945 -22.468  0.00  0.00           S 0
+ATOM   3726   CB PRO A1064       6.885  31.882 -26.478  0.00  0.00           C 0
+ATOM   3187   CA THR A1022       4.853  27.092 -22.070  0.00  0.00           C 0
+TER
+END
